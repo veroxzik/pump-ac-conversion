@@ -26,7 +26,11 @@ This code is simplistic. There's no debounce. If any switch is triggered, it wil
 
 New frames were designed to be 3D printed (as all of mine were rusted). They are designed to use the existing bracketed panels and replaces the sensors with [cheap generic dance sensors](https://rhythm-cons.wiki/controllers/dance-pads/dance-pads/#sensors). 
 
-CAD will be published soon(tm).
+The frames are modular, consisting of corner supports and a choice of two side segments to form either the square or rectangle frames. A small printed top goes on the sensor to distribute the load and provide a place to tape mod.
+
+A partial assembly is shown below:
+
+![](./img/frame-partial-assy.png)
 
 ## Boards
 
